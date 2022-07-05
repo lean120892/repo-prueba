@@ -10,3 +10,9 @@ git branch -M main
 git remote add origin https://github.com/lean120892/repo-prueba.git
 git push -u origin main
 
+// Actualizar contenido
+git status (opcional)
+git add .
+git commit -m "first commit"
+git push -u origin main
+
