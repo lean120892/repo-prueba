@@ -1,0 +1,5 @@
+// Clonar un repositorio de la nube
+git clone "url-github"
+
+//Crear un repo Git y subir a la nube
+git init
