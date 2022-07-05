@@ -3,3 +3,10 @@ git clone "url-github"
 
 //Crear un repo Git y subir a la nube
 git init
+git status (opcional para ver archivos)
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lean120892/repo-prueba.git
+git push -u origin main
+
